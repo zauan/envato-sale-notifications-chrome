@@ -1,4 +1,3 @@
 [submodule "test-submodule"]
 	path = test-submodule
 	url = https://github.com/zauan/test-submodule
-	ignore = all
